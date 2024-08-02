@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+requests
+gtts
+pygame
+g4f
+face_recognition
+PyAudio
